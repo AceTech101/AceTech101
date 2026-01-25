@@ -1,22 +1,22 @@
 # Hi there, I'm Joshua Jupiter 👋
 
-### AI Engineer | Full-Stack Developer | Automation Specialist
+### Aspiring AI Engineer | Full-Stack Developer | Automation Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodedByJosh-000000?style=flat&logo=vercel)](https://codedbyjosh.com)
-[![Twitter](https://img.shields.io/badge/X-Follow-1DA1F2?style=flat&logo=x)](https://twitter.com/yourhandle)
 
 ---
 
 ## 🚀 About Me
 
-Passionate AI Engineer and Full-Stack Developer based in Barbados 🇧🇧, specializing in building intelligent systems and scalable web applications for local businesses. I transform ideas into production-ready solutions using cutting-edge AI technologies and modern development practices.
+Passionate developer based in Barbados 🇧🇧, on a journey to becoming an AI Engineer! I specialize in building intelligent automation systems and full-stack web applications for local businesses, while actively pursuing AI/ML certifications and expanding my technical skillset.
 
 - 🔭 Currently working on AI voice agents and intelligent automation workflows
-- 🌱 Completing Google AI Engineer and Microsoft certifications
+- 🌱 **Actively pursuing:** Google AI Engineer and Microsoft AI certifications
 - 💼 Founder of **CodedByJosh** - helping local businesses scale with technology
 - 🤖 Building AI-powered chatbots, voice agents, and workflow automation systems
 - 🌐 Creating full-stack web applications with React and modern frameworks
+- 📚 Learning backend development, advanced AI/ML, and cloud technologies
 
 ---
 
@@ -41,10 +41,11 @@ Passionate AI Engineer and Full-Stack Developer based in Barbados 🇧🇧, spec
 ![WhatsApp API](https://img.shields.io/badge/-WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 
-### Learning & Expanding Skills
+### Currently Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -76,23 +77,22 @@ Custom chatbot solution with AI for businesses
 
 ---
 
-## 🏆 Certifications & Learning
+## 🏆 Certifications & Learning Path
 
-- 🎓 Google AI Engineer Certification (In Progress)
-- 🎓 Microsoft AI Fundamentals
-- 🎓 Cisco Networking Certifications
-- 📚 Currently learning: Backend Development (Node.js, APIs), Advanced AI/ML, Database Management
+- 🎓 **Google AI Engineer Certification** (In Progress)
+- 🎓 **Microsoft AI Fundamentals** (In Progress)
+- 🎓 **Cisco Networking Certifications**
+- 📚 **Currently learning:** Backend Development (Node.js, APIs), Advanced AI/ML, Database Management, Cloud Technologies
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on innovative AI projects or discussing tech solutions for businesses!
+I'm always open to collaborating on innovative AI projects, discussing tech solutions for businesses, or connecting with fellow developers!
 
 - 💼 **Company:** [CodedByJosh](https://codedbyjosh.com)
 - 📧 **Email:** jupiterjoshua1@gmail.com
-- 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
 - 📍 **Location:** Barbados 🇧🇧
 
 ---
@@ -100,5 +100,5 @@ I'm always open to collaborating on innovative AI projects or discussing tech so
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AceTech101&color=blueviolet&style=flat-square" alt="Profile Views"/>
   
-  ### 💡 "Building the future, one line of code at a time"
+  ### 💡 "Learning today, building tomorrow"
 </div>
