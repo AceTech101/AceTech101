@@ -31,7 +31,7 @@ Built and deployed production websites and web applications for local businesses
 | Client | Project | Tech |
 |---|---|---|
 | **KM Rental Cars** | Full business website with booking system | React, TypeScript, Supabase |
-| **Hills** | Business website & digital presence | React, Tailwind CSS |
+| **Hills Car Rental** | Business website & digital presence | React, Tailwind CSS |
 
 - Conducted website audits and debugging services for clients
 - Built AI chatbot integrations and WhatsApp automation for local businesses
