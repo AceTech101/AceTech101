@@ -10,12 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a driven developer and entrepreneur from **Barbados 🇧🇧** who builds real solutions for real businesses. At 16, I run my own web development company, compete in VEX robotics at a national level, and am actively building AI-powered platforms that are changing how Caribbean businesses operate.
+I'm a driven developer and entrepreneur from **Barbados 🇧🇧** who builds real solutions for real businesses. I run my own web development company, compete in VEX robotics at a national level, and am actively building AI-powered tools and automation systems.
 
 - 🏢 **Founder of [CodedByJosh](https://codedbyjosh.com)** — full-stack web development for local businesses
 - 🤖 **VEX IQ & VEX V5 Robotics Competitor** — autonomous programming, PID control, driver skills
-- 🌐 **Building [LearnCarib AI](https://learncarib.com)** — AI-powered educational platform for the Caribbean
 - 🔭 Currently working on AI voice agents, automation workflows, and intelligent web apps
+- 💡 Building AI-powered chatbots and WhatsApp automation for local businesses
 - 📚 Learning advanced AI/ML, cloud infrastructure, and humanoid robotics
 - 🎯 Goal: Build world-class tech products from the Caribbean
 
@@ -26,14 +26,12 @@ I'm a driven developer and entrepreneur from **Barbados 🇧🇧** who builds re
 ### CodedByJosh — Founder & Lead Developer
 *2023 – Present | Barbados*
 
-Built and deployed production websites and web applications for multiple local businesses:
+Built and deployed production websites and web applications for local businesses:
 
 | Client | Project | Tech |
 |---|---|---|
 | **KM Rental Cars** | Full business website with booking system | React, TypeScript, Supabase |
-| **J&A Auto Rentals** | Car rental management platform | React, Tailwind CSS |
-| **ALS Car Rentals** | Booking & fleet management system | JavaScript, HTML/CSS |
-| **Lord's Repairs** | Service booking & business site | React, Supabase |
+| **Hills** | Business website & digital presence | React, Tailwind CSS |
 
 - Conducted website audits and debugging services for clients
 - Built AI chatbot integrations and WhatsApp automation for local businesses
@@ -50,18 +48,12 @@ Built and deployed production websites and web applications for multiple local b
 - Implemented **PID control systems** for precise autonomous movement
 - Designed robot mechanisms and assemblies using **OnShape** and **Fusion 360** (CAD)
 - Competed in national-level VEX robotics tournaments
-- Mentored younger students (1st formers) in robotics programming basics
+- Mentored younger students in robotics programming basics
 - Used **VEXCode** (C++) and Python for robot control and sensor integration
 
 ---
 
 ## 🌟 Featured Projects
-
-### 🎓 LearnCarib AI — Educational Platform
-AI-powered learning platform built for Caribbean students and schools
-- **Tech:** React, TypeScript, Supabase, OpenAI API
-- **Features:** AI tutoring, CXC exam prep, personalized learning paths, Caribbean curriculum focus
-- Targeting the gap in localized EdTech for the Caribbean region
 
 ### 🤖 Jarvis AI Assistant
 Personal voice assistant inspired by Iron Man's Jarvis
@@ -138,8 +130,7 @@ Intelligent voice agents for automated customer service
 ## 🏆 Achievements & Activities
 
 - 🥇 **VEX Robotics Competitor** — National level, Barbados
-- 🏢 **Business Owner** — CodedByJosh, serving 4+ business clients
-- 🌐 **EdTech Founder** — LearnCarib AI platform in development
+- 🏢 **Business Owner** — CodedByJosh, serving local business clients
 - 📈 **Self-taught Full-Stack Developer** — from zero to production apps
 - 🎓 **Google AI Engineer Certification** (In Progress)
 - 🎓 **Microsoft AI Fundamentals** (In Progress)
