@@ -1,104 +1,163 @@
 # Hi there, I'm Joshua Jupiter 👋
 
-### Aspiring AI Engineer | Full-Stack Developer | Automation Specialist
+### Full-Stack Developer | AI Engineer | Robotics Programmer | Entrepreneur
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CodedByJosh-000000?style=flat&logo=vercel)](https://codedbyjosh.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://codedbyjosh.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jupiterjoshua1@gmail.com)
 
 ---
 
 ## 🚀 About Me
 
-Passionate developer based in Barbados 🇧🇧, on a journey to becoming an AI Engineer! I specialize in building intelligent automation systems and full-stack web applications for local businesses, while actively pursuing AI/ML certifications and expanding my technical skillset.
+I'm a driven developer and entrepreneur from **Barbados 🇧🇧** who builds real solutions for real businesses. At 16, I run my own web development company, compete in VEX robotics at a national level, and am actively building AI-powered platforms that are changing how Caribbean businesses operate.
 
-- 🔭 Currently working on AI voice agents and intelligent automation workflows
-- 🌱 **Actively pursuing:** Google AI Engineer and Microsoft AI certifications
-- 💼 Founder of **CodedByJosh** - helping local businesses scale with technology
-- 🤖 Building AI-powered chatbots, voice agents, and workflow automation systems
-- 🌐 Creating full-stack web applications with React and modern frameworks
-- 📚 Learning backend development, advanced AI/ML, and cloud technologies
+- 🏢 **Founder of [CodedByJosh](https://codedbyjosh.com)** — full-stack web development for local businesses
+- 🤖 **VEX IQ & VEX V5 Robotics Competitor** — autonomous programming, PID control, driver skills
+- 🌐 **Building [LearnCarib AI](https://learncarib.com)** — AI-powered educational platform for the Caribbean
+- 🔭 Currently working on AI voice agents, automation workflows, and intelligent web apps
+- 📚 Learning advanced AI/ML, cloud infrastructure, and humanoid robotics
+- 🎯 Goal: Build world-class tech products from the Caribbean
 
 ---
 
-## 💼 Tech Stack
+## 💼 Experience
 
-### AI & Machine Learning
+### CodedByJosh — Founder & Lead Developer
+*2023 – Present | Barbados*
+
+Built and deployed production websites and web applications for multiple local businesses:
+
+| Client | Project | Tech |
+|---|---|---|
+| **KM Rental Cars** | Full business website with booking system | React, TypeScript, Supabase |
+| **J&A Auto Rentals** | Car rental management platform | React, Tailwind CSS |
+| **ALS Car Rentals** | Booking & fleet management system | JavaScript, HTML/CSS |
+| **Lord's Repairs** | Service booking & business site | React, Supabase |
+
+- Conducted website audits and debugging services for clients
+- Built AI chatbot integrations and WhatsApp automation for local businesses
+- Delivered full-stack solutions from design to deployment
+
+---
+
+## 🤖 Robotics — VEX Competitions
+
+### VEX IQ & VEX V5 Programmer
+*Barbados National Robotics Competitions*
+
+- Programmed autonomous routines and driver-assist systems for VEX IQ and VEX V5 robots
+- Implemented **PID control systems** for precise autonomous movement
+- Designed robot mechanisms and assemblies using **OnShape** and **Fusion 360** (CAD)
+- Competed in national-level VEX robotics tournaments
+- Mentored younger students (1st formers) in robotics programming basics
+- Used **VEXCode** (C++) and Python for robot control and sensor integration
+
+---
+
+## 🌟 Featured Projects
+
+### 🎓 LearnCarib AI — Educational Platform
+AI-powered learning platform built for Caribbean students and schools
+- **Tech:** React, TypeScript, Supabase, OpenAI API
+- **Features:** AI tutoring, CXC exam prep, personalized learning paths, Caribbean curriculum focus
+- Targeting the gap in localized EdTech for the Caribbean region
+
+### 🤖 Jarvis AI Assistant
+Personal voice assistant inspired by Iron Man's Jarvis
+- **Tech:** Python, OpenAI Whisper, GPT-3.5, TTS
+- **Features:** Voice-activated commands, natural conversation, task automation
+- [View Repo](https://github.com/AceTech101/jarvis-ai-assistant)
+
+### 🌐 Jarvis AI Browser
+Voice-activated AI-powered browser assistant
+- **Tech:** Python, JavaScript
+- **Features:** Hands-free browsing, voice commands, AI-powered navigation
+- [View Repo](https://github.com/AceTech101/jarvis-ai-broswer)
+
+### 💬 Local Service AI Assistant
+RAG-powered chatbot for Caribbean businesses (car rentals, dentists, service providers)
+- **Tech:** Python, LLMs, Vector Search, RAG architecture
+- **Features:** Document Q&A, FAQ automation, lead triage, business-specific knowledge base
+- [View Repo](https://github.com/AceTech101/local-service-ai-assistant)
+
+### 🗣️ AI Voice Agent Platform
+Intelligent voice agents for automated customer service
+- **Tech:** Python, OpenAI API, Twilio, n8n
+- **Features:** NLP call handling, CRM integration, automated workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-8E75B2?style=flat)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Automation & Integration
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-8E75B2?style=flat)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/-WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 
-### Currently Learning
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Lovable](https://img.shields.io/badge/-Lovable-FF6B6B?style=flat)
 
----
-
-## 🎯 Featured Projects
-
-### 🤖 AI Voice Agent Platform
-Built intelligent voice agents using Twilio, OpenAI, and n8n for automated customer service
-- **Tech:** Python, OpenAI API, Twilio, n8n
-- **Features:** Natural language processing, automated call handling, CRM integration
-
-### 🚗 Car Rental Management System
-Full-stack platform for DMF Car Rentals with booking management and payment processing
-- **Tech:** React, TypeScript
-- **Features:** Real-time availability, automated notifications, payment gateway
-
-### 💬 AI Chatbot Framework
-Custom chatbot solution with AI for businesses
-- **Tech:** Python, OpenAI, n8n
-- **Features:** Context-aware responses, multi-language support, automated workflows
+### CAD & Robotics
+![OnShape](https://img.shields.io/badge/-OnShape-0078D4?style=flat)
+![Fusion 360](https://img.shields.io/badge/-Fusion_360-FF6600?style=flat)
+![VEXCode](https://img.shields.io/badge/-VEXCode-C00000?style=flat)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AceTech101&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceTech101&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AceTech101&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AceTech101&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🏆 Certifications & Learning Path
+## 🏆 Achievements & Activities
 
+- 🥇 **VEX Robotics Competitor** — National level, Barbados
+- 🏢 **Business Owner** — CodedByJosh, serving 4+ business clients
+- 🌐 **EdTech Founder** — LearnCarib AI platform in development
+- 📈 **Self-taught Full-Stack Developer** — from zero to production apps
 - 🎓 **Google AI Engineer Certification** (In Progress)
 - 🎓 **Microsoft AI Fundamentals** (In Progress)
-- 🎓 **Cisco Networking Certifications**
-- 📚 **Currently learning:** Backend Development (Node.js, APIs), Advanced AI/ML, Database Management, Cloud Technologies
+- 🎓 **Cisco Networking** (In Progress)
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on innovative AI projects, discussing tech solutions for businesses, or connecting with fellow developers!
+I'm always open to collaborating on innovative projects, discussing tech for Caribbean businesses, or connecting with fellow developers and robotics enthusiasts!
 
 - 💼 **Company:** [CodedByJosh](https://codedbyjosh.com)
-- 📧 **Email:** jupiterjoshua1@gmail.com
-- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
+- 📧 **Email:** [jupiterjoshua1@gmail.com](mailto:jupiterjoshua1@gmail.com)
+- 🔗 **LinkedIn:** [joshua-jupiter](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
 - 📍 **Location:** Barbados 🇧🇧
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AceTech101&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  
-  ### 💡 "Learning today, building tomorrow"
-</div>
+### 💡 *"Building the Caribbean's future, one line of code at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AceTech101&color=blueviolet&style=flat-square)
