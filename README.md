@@ -13,7 +13,7 @@
 I'm a driven developer and entrepreneur from **Barbados 🇧🇧** who builds real solutions for real businesses. I run my own web development company, compete in VEX robotics at a national level, and am actively building AI-powered tools and automation systems.
 
 - 🏢 **Founder of [CodedByJosh](https://codedbyjosh.com)** — full-stack web development for local businesses
-- 🤖 **VEX IQ & VEX V5 Robotics Competitor** — autonomous programming, PID control, driver skills
+- 🤖 **VEX IQ & VEX V5 Robotics Competitor** — autonomous programming, PID control, driver skills, designing
 - 🔭 Currently working on AI voice agents, automation workflows, and intelligent web apps
 - 💡 Building AI-powered chatbots and WhatsApp automation for local businesses
 - 📚 Learning advanced AI/ML, cloud infrastructure, and humanoid robotics
