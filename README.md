@@ -1,6 +1,6 @@
 # Joshua Jupiter
 
-### Full-Stack Developer | AI Engineer | Robotics Programmer | Entrepreneur
+### Full-Stack Developer | Robotics Programmer | 
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://codedbyjosh.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-jupiter-62492b318/)
@@ -36,10 +36,6 @@ Programmed autonomous routines and driver-assist systems using VEXCode (C++) and
 
 ## Featured Projects
 
-- **Jarvis AI Assistant** — Personal voice assistant built with Python, OpenAI Whisper, GPT-3.5, and TTS.
-- **Jarvis AI Browser** — Voice-activated, AI-powered browser assistant.
-- **Local Service AI Assistant** — RAG-powered chatbot designed for Caribbean businesses.
-- **AI Voice Agent Platform** — Intelligent voice agents for automated customer service using n8n, Twilio, and OpenAI.
 
 ---
 
